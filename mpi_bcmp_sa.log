@@ -1,0 +1,3047 @@
+[MPI] size=76
+[MPI] param_dir = /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+[MPI] out_dir   = /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt
+[MPI] rank0 progress log: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank0_progress.log
+[MPI] size=76
+[MPI] param_dir = /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+[MPI] out_dir   = /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_040
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_054
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_056
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_058
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_062
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_074
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_059
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_061
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_038
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_053
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_048
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_072
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_063
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_050
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_051
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_057
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 62] Initial=209, Limit=4180 (x20.0)
+[Rank 62] Individual UB multiplier=500.0
+[Rank 40] Initial=209, Limit=4180 (x20.0)
+[Rank 40] Individual UB multiplier=500.0
+[Rank 54] Initial=209, Limit=4180 (x20.0)
+[Rank 54] Individual UB multiplier=500.0
+[Rank 56] Initial=209, Limit=4180 (x20.0)
+[Rank 56] Individual UB multiplier=500.0
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_071
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 72] Initial=209, Limit=4180 (x20.0)
+[Rank 72] Individual UB multiplier=500.0
+[Rank 38] Initial=209, Limit=4180 (x20.0)
+[Rank 38] Individual UB multiplier=500.0
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_067
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 74] Initial=209, Limit=4180 (x20.0)
+[Rank 74] Individual UB multiplier=500.0
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_065
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_044
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 50] Initial=209, Limit=4180 (x20.0)
+[Rank 50] Individual UB multiplier=500.0
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_046
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_068
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_066
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_069
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_052
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 53] Initial=209, Limit=4180 (x20.0)
+[Rank 53] Individual UB multiplier=500.0
+[Rank 61] Initial=209, Limit=4180 (x20.0)
+[Rank 61] Individual UB multiplier=500.0
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_041
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+[Rank 48] Initial=209, Limit=4180 (x20.0)
+[Rank 48] Individual UB multiplier=500.0
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 51] Initial=209, Limit=4180 (x20.0)
+[Rank 51] Individual UB multiplier=500.0
+[Rank 58] Initial=209, Limit=4180 (x20.0)
+[Rank 58] Individual UB multiplier=500.0
+[Rank 59] Initial=209, Limit=4180 (x20.0)
+[Rank 59] Individual UB multiplier=500.0
+[Rank 63] Initial=209, Limit=4180 (x20.0)
+[Rank 63] Individual UB multiplier=500.0
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_064
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_049
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_043
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_045
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_073
+[Rank 65] Initial=209, Limit=4180 (x20.0)
+[Rank 65] Individual UB multiplier=500.0
+[Rank 71] Initial=209, Limit=4180 (x20.0)
+[Rank 71] Individual UB multiplier=500.0
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 46] Initial=209, Limit=4180 (x20.0)
+[Rank 46] Individual UB multiplier=500.0
+[Rank 69] Initial=209, Limit=4180 (x20.0)
+[Rank 69] Individual UB multiplier=500.0
+[Rank 66] Initial=209, Limit=4180 (x20.0)
+[Rank 66] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 52] Initial=209, Limit=4180 (x20.0)
+[Rank 52] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_039
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_070
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 41] Initial=209, Limit=4180 (x20.0)
+[Rank 41] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_060
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_042
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 45] Initial=209, Limit=4180 (x20.0)
+[Rank 45] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_055
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 73] Initial=209, Limit=4180 (x20.0)
+[Rank 73] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_075
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 39] Initial=209, Limit=4180 (x20.0)
+[Rank 39] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_047
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 47] Initial=209, Limit=4180 (x20.0)
+[Rank 47] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 42] Initial=209, Limit=4180 (x20.0)
+[Rank 42] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 44] Initial=209, Limit=4180 (x20.0)
+[Rank 44] Individual UB multiplier=500.0
+[Rank 49] Initial=209, Limit=4180 (x20.0)
+[Rank 49] Individual UB multiplier=500.0
+[Rank 57] Initial=209, Limit=4180 (x20.0)
+[Rank 57] Individual UB multiplier=500.0
+[Rank 68] Initial=209, Limit=4180 (x20.0)
+[Rank 68] Individual UB multiplier=500.0
+[Rank 70] Initial=209, Limit=4180 (x20.0)
+[Rank 70] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 64] Initial=209, Limit=4180 (x20.0)
+[Rank 64] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_008
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 43] Initial=209, Limit=4180 (x20.0)
+[Rank 43] Individual UB multiplier=500.0
+[Rank 55] Initial=209, Limit=4180 (x20.0)
+[Rank 55] Individual UB multiplier=500.0
+[Rank 67] Initial=209, Limit=4180 (x20.0)
+[Rank 67] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 75] Initial=209, Limit=4180 (x20.0)
+[Rank 75] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 60] Initial=209, Limit=4180 (x20.0)
+[Rank 60] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_001
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 8] Initial=209, Limit=4180 (x20.0)
+[Rank 8] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_027
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_017
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 1] Initial=209, Limit=4180 (x20.0)
+[Rank 1] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_016
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 27] Initial=209, Limit=4180 (x20.0)
+[Rank 27] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_007
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 17] Initial=209, Limit=4180 (x20.0)
+[Rank 17] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_029
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_031
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_005
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_020
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  initial total windows: 209
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_021
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_003
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_015
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_010
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_036
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_019
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_023
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_004
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_033
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_011
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_013
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_006
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_026
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_025
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_034
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_012
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_000
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_035
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_028
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_037
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_014
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_022
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_032
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_030
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_009
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_018
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_024
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+BCMP SA Optimizer initialized:
+  param_dir: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/param_out
+  out_dir  : /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_002
+  alpha    : {'Aid': 1.0, 'Amb': 1.0, 'Hosp': 1.0}
+  total_windows_limit: None
+  weights  :  unstable=5000.0, window_cost=0.2
+  stability_eps: 1e-06
+  bounds: lb=initial/ 2.0, ub=initial* 500.0
+  FCFS nodes: 131
+  initial total windows: 209
+[Rank 16] Initial=209, Limit=4180 (x20.0)
+[Rank 16] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 7] Initial=209, Limit=4180 (x20.0)
+[Rank 7] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 31] Initial=209, Limit=4180 (x20.0)
+[Rank 31] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 36] Initial=209, Limit=4180 (x20.0)
+[Rank 36] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 19] Initial=209, Limit=4180 (x20.0)
+[Rank 19] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 15] Initial=209, Limit=4180 (x20.0)
+[Rank 15] Individual UB multiplier=500.0
+[Rank 3] Initial=209, Limit=4180 (x20.0)
+[Rank 3] Individual UB multiplier=500.0
+[Rank 10] Initial=209, Limit=4180 (x20.0)
+[Rank 10] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 4] Initial=209, Limit=4180 (x20.0)
+[Rank 4] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 0] Initial=209, Limit=4180 (x20.0)
+[Rank 0] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 5] Initial=209, Limit=4180 (x20.0)
+[Rank 5] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 13] Initial=209, Limit=4180 (x20.0)
+[Rank 13] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 29] Initial=209, Limit=4180 (x20.0)
+[Rank 29] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 6] Initial=209, Limit=4180 (x20.0)
+[Rank 6] Individual UB multiplier=500.0
+[Rank 11] Initial=209, Limit=4180 (x20.0)
+[Rank 11] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 14] Initial=209, Limit=4180 (x20.0)
+[Rank 14] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 20] Initial=209, Limit=4180 (x20.0)
+[Rank 20] Individual UB multiplier=500.0
+[Rank 23] Initial=209, Limit=4180 (x20.0)
+[Rank 23] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 34] Initial=209, Limit=4180 (x20.0)
+[Rank 34] Individual UB multiplier=500.0
+[Rank 35] Initial=209, Limit=4180 (x20.0)
+[Rank 35] Individual UB multiplier=500.0
+[Rank 21] Initial=209, Limit=4180 (x20.0)
+[Rank 21] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 2] Initial=209, Limit=4180 (x20.0)
+[Rank 2] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 24] Initial=209, Limit=4180 (x20.0)
+[Rank 24] Individual UB multiplier=500.0
+[Rank 12] Initial=209, Limit=4180 (x20.0)
+[Rank 12] Individual UB multiplier=500.0
+[Rank 18] Initial=209, Limit=4180 (x20.0)
+[Rank 18] Individual UB multiplier=500.0
+[Rank 26] Initial=209, Limit=4180 (x20.0)
+[Rank 26] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 25] Initial=209, Limit=4180 (x20.0)
+[Rank 25] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 33] Initial=209, Limit=4180 (x20.0)
+[Rank 33] Individual UB multiplier=500.0
+[Rank 22] Initial=209, Limit=4180 (x20.0)
+[Rank 22] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 30] Initial=209, Limit=4180 (x20.0)
+[Rank 30] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 32] Initial=209, Limit=4180 (x20.0)
+[Rank 32] Individual UB multiplier=500.0
+[Rank 28] Initial=209, Limit=4180 (x20.0)
+[Rank 28] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 37] Initial=209, Limit=4180 (x20.0)
+[Rank 37] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[Rank 9] Initial=209, Limit=4180 (x20.0)
+[Rank 9] Individual UB multiplier=500.0
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 209 (enforce_exact=True)
+[   20/600] T=74.355 | curr=94.150 (best=2.145) | unstable=0 | cv2=2.150 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 202.5s
+[   20/600] T=74.355 | curr=86.170 (best=2.145) | unstable=0 | cv2=2.170 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 205.8s
+[   20/600] T=74.355 | curr=118.170 (best=2.145) | unstable=0 | cv2=2.170 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 213.1s
+[   20/600] T=74.355 | curr=86.156 (best=2.145) | unstable=0 | cv2=2.156 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 213.4s
+[   20/600] T=74.355 | curr=86.201 (best=2.145) | unstable=0 | cv2=2.201 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 214.2s
+[   20/600] T=74.355 | curr=98.166 (best=2.145) | unstable=0 | cv2=2.166 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 219.4s
+[   20/600] T=74.355 | curr=102.153 (best=2.145) | unstable=0 | cv2=2.153 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 219.6s
+[   20/600] T=74.355 | curr=78.150 (best=2.145) | unstable=0 | cv2=2.150 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 219.7s
+[   20/600] T=74.355 | curr=98.184 (best=2.145) | unstable=0 | cv2=2.184 | m=209 | acc= 80.0% | no_improv= 20 | last_improv=    0 | elapsed= 220.7s
+[   20/600] T=74.355 | curr=122.195 (best=2.145) | unstable=0 | cv2=2.195 | m=209 | acc= 75.0% | no_improv= 20 | last_improv=    0 | elapsed= 220.8s
+[   20/600] T=74.355 | curr=102.164 (best=2.145) | unstable=0 | cv2=2.164 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 225.6s
+[   20/600] T=74.355 | curr=106.194 (best=2.145) | unstable=0 | cv2=2.194 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 225.7s
+[   20/600] T=74.355 | curr=86.199 (best=2.145) | unstable=0 | cv2=2.199 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 226.4s
+[   20/600] T=74.355 | curr=118.199 (best=2.145) | unstable=0 | cv2=2.199 | m=209 | acc= 80.0% | no_improv= 20 | last_improv=    0 | elapsed= 226.3s
+[   20/600] T=74.355 | curr=90.189 (best=2.145) | unstable=0 | cv2=2.189 | m=209 | acc= 80.0% | no_improv= 20 | last_improv=    0 | elapsed= 226.9s
+[   20/600] T=74.355 | curr=138.176 (best=2.145) | unstable=0 | cv2=2.176 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 231.0s
+[   20/600] T=74.355 | curr=110.241 (best=2.145) | unstable=0 | cv2=2.241 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 231.1s
+[   20/600] T=74.355 | curr=94.162 (best=2.145) | unstable=0 | cv2=2.162 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 231.3s
+[   20/600] T=74.355 | curr=118.212 (best=2.145) | unstable=0 | cv2=2.212 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 232.6s
+[   20/600] T=74.355 | curr=98.196 (best=2.145) | unstable=0 | cv2=2.196 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 233.8s
+[   20/600] T=74.355 | curr=150.220 (best=2.145) | unstable=0 | cv2=2.220 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 234.0s
+[   20/600] T=74.355 | curr=94.176 (best=2.145) | unstable=0 | cv2=2.176 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 234.1s
+[   20/600] T=74.355 | curr=90.202 (best=2.145) | unstable=0 | cv2=2.202 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 234.8s
+[   20/600] T=74.355 | curr=130.172 (best=2.145) | unstable=0 | cv2=2.172 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 237.0s
+[   20/600] T=74.355 | curr=90.217 (best=2.145) | unstable=0 | cv2=2.217 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 237.4s
+[   20/600] T=74.355 | curr=106.166 (best=2.145) | unstable=0 | cv2=2.166 | m=209 | acc= 85.0% | no_improv= 20 | last_improv=    0 | elapsed= 238.1s
+[   20/600] T=74.355 | curr=110.173 (best=2.145) | unstable=0 | cv2=2.173 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 238.0s
+[   20/600] T=74.355 | curr=130.168 (best=2.145) | unstable=0 | cv2=2.168 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 238.2s
+[   20/600] T=74.355 | curr=126.194 (best=2.145) | unstable=0 | cv2=2.194 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 238.4s
+[   20/600] T=74.355 | curr=118.188 (best=2.145) | unstable=0 | cv2=2.188 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 238.7s
+[   20/600] T=74.355 | curr=150.199 (best=2.145) | unstable=0 | cv2=2.199 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 238.8s
+[   20/600] T=74.355 | curr=110.195 (best=2.145) | unstable=0 | cv2=2.195 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.0s
+[   20/600] T=74.355 | curr=138.175 (best=2.145) | unstable=0 | cv2=2.175 | m=209 | acc= 80.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.3s
+[   20/600] T=74.355 | curr=98.172 (best=2.145) | unstable=0 | cv2=2.172 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.1s
+[   20/600] T=74.355 | curr=102.215 (best=2.145) | unstable=0 | cv2=2.215 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.4s
+[   20/600] T=74.355 | curr=126.179 (best=2.145) | unstable=0 | cv2=2.179 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.3s
+[   20/600] T=74.355 | curr=98.179 (best=2.145) | unstable=0 | cv2=2.179 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.5s
+[   20/600] T=74.355 | curr=126.157 (best=2.145) | unstable=0 | cv2=2.157 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.3s
+[   20/600] T=74.355 | curr=142.211 (best=2.145) | unstable=0 | cv2=2.211 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.5s
+[   20/600] T=74.355 | curr=122.173 (best=2.145) | unstable=0 | cv2=2.173 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 239.9s
+[   20/600] T=74.355 | curr=126.210 (best=2.145) | unstable=0 | cv2=2.210 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 240.8s
+[   20/600] T=74.355 | curr=138.197 (best=2.145) | unstable=0 | cv2=2.197 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 244.0s
+[   20/600] T=74.355 | curr=134.187 (best=2.145) | unstable=0 | cv2=2.187 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 243.8s
+[   20/600] T=74.355 | curr=106.162 (best=2.145) | unstable=0 | cv2=2.162 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 244.1s
+[   20/600] T=74.355 | curr=126.209 (best=2.145) | unstable=0 | cv2=2.209 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 244.4s
+[   20/600] T=74.355 | curr=146.187 (best=2.145) | unstable=0 | cv2=2.187 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 244.4s
+[   20/600] T=74.355 | curr=110.198 (best=2.145) | unstable=0 | cv2=2.198 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 244.7s
+[   20/600] T=74.355 | curr=90.164 (best=2.145) | unstable=0 | cv2=2.164 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 245.2s
+[   20/600] T=74.355 | curr=126.187 (best=2.145) | unstable=0 | cv2=2.187 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 245.4s
+[   20/600] T=74.355 | curr=114.179 (best=2.145) | unstable=0 | cv2=2.179 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 245.8s
+[   20/600] T=74.355 | curr=114.195 (best=2.145) | unstable=0 | cv2=2.195 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 246.1s
+[   20/600] T=74.355 | curr=98.172 (best=2.145) | unstable=0 | cv2=2.172 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 246.3s
+[   20/600] T=74.355 | curr=122.200 (best=2.145) | unstable=0 | cv2=2.200 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 246.8s
+[   20/600] T=74.355 | curr=118.180 (best=2.145) | unstable=0 | cv2=2.180 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 247.3s
+[   20/600] T=74.355 | curr=110.190 (best=2.145) | unstable=0 | cv2=2.190 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 248.2s
+[   20/600] T=74.355 | curr=126.185 (best=2.145) | unstable=0 | cv2=2.185 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 251.4s
+[   20/600] T=74.355 | curr=94.191 (best=2.145) | unstable=0 | cv2=2.191 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 251.5s
+[   20/600] T=74.355 | curr=142.194 (best=2.145) | unstable=0 | cv2=2.194 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 251.4s
+[   20/600] T=74.355 | curr=134.179 (best=2.145) | unstable=0 | cv2=2.179 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 252.0s
+[   20/600] T=74.355 | curr=134.180 (best=2.145) | unstable=0 | cv2=2.180 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 252.5s
+[   20/600] T=74.355 | curr=110.203 (best=2.145) | unstable=0 | cv2=2.203 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 252.6s
+[   20/600] T=74.355 | curr=158.207 (best=2.145) | unstable=0 | cv2=2.207 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 252.5s
+[   20/600] T=74.355 | curr=122.163 (best=2.145) | unstable=0 | cv2=2.163 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 253.0s
+[   20/600] T=74.355 | curr=158.178 (best=2.145) | unstable=0 | cv2=2.178 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 252.9s
+[   20/600] T=74.355 | curr=130.212 (best=2.145) | unstable=0 | cv2=2.212 | m=209 | acc= 90.0% | no_improv= 20 | last_improv=    0 | elapsed= 253.4s
+[   20/600] T=74.355 | curr=134.165 (best=2.145) | unstable=0 | cv2=2.165 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 254.1s
+[   20/600] T=74.355 | curr=146.176 (best=2.145) | unstable=0 | cv2=2.176 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 254.1s
+[   20/600] T=74.355 | curr=134.195 (best=2.145) | unstable=0 | cv2=2.195 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 255.6s
+[   20/600] T=74.355 | curr=126.150 (best=2.145) | unstable=0 | cv2=2.150 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 256.6s
+[   20/600] T=74.355 | curr=134.159 (best=2.145) | unstable=0 | cv2=2.159 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 256.6s
+[   20/600] T=74.355 | curr=118.163 (best=2.145) | unstable=0 | cv2=2.163 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 256.8s
+[   20/600] T=74.355 | curr=134.170 (best=2.145) | unstable=0 | cv2=2.170 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 257.6s
+[   20/600] T=74.355 | curr=110.154 (best=2.145) | unstable=0 | cv2=2.154 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 258.7s
+[   20/600] T=74.355 | curr=126.205 (best=2.145) | unstable=0 | cv2=2.205 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 259.9s
+[   20/600] T=74.355 | curr=106.154 (best=2.145) | unstable=0 | cv2=2.154 | m=209 | acc= 95.0% | no_improv= 20 | last_improv=    0 | elapsed= 260.2s
+[   20/600] T=74.355 | curr=122.153 (best=2.145) | unstable=0 | cv2=2.153 | m=209 | acc=100.0% | no_improv= 20 | last_improv=    0 | elapsed= 262.2s
+[   40/600] T=60.816 | curr=174.198 (best=2.145) | unstable=0 | cv2=2.198 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 430.8s
+[   40/600] T=60.816 | curr=134.162 (best=2.145) | unstable=0 | cv2=2.162 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 439.2s
+[   40/600] T=60.816 | curr=122.206 (best=2.145) | unstable=0 | cv2=2.206 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 440.8s
+[   40/600] T=60.816 | curr=158.224 (best=2.145) | unstable=0 | cv2=2.224 | m=209 | acc= 87.5% | no_improv= 40 | last_improv=    0 | elapsed= 440.9s
+[   40/600] T=60.816 | curr=162.209 (best=2.145) | unstable=0 | cv2=2.209 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 443.2s
+[   40/600] T=60.816 | curr=190.171 (best=2.145) | unstable=0 | cv2=2.171 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 448.9s
+[   40/600] T=60.816 | curr=170.197 (best=2.145) | unstable=0 | cv2=2.197 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 450.9s
+[   40/600] T=60.816 | curr=178.218 (best=2.145) | unstable=0 | cv2=2.218 | m=209 | acc= 80.0% | no_improv= 40 | last_improv=    0 | elapsed= 452.6s
+[   40/600] T=60.816 | curr=138.173 (best=2.145) | unstable=0 | cv2=2.173 | m=209 | acc= 85.0% | no_improv= 40 | last_improv=    0 | elapsed= 453.3s
+[   40/600] T=60.816 | curr=166.164 (best=2.145) | unstable=0 | cv2=2.164 | m=209 | acc= 87.5% | no_improv= 40 | last_improv=    0 | elapsed= 457.2s
+[   40/600] T=60.816 | curr=162.209 (best=2.145) | unstable=0 | cv2=2.209 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 457.2s
+[   40/600] T=60.816 | curr=158.147 (best=2.145) | unstable=0 | cv2=2.147 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 459.3s
+[   40/600] T=60.816 | curr=158.177 (best=2.145) | unstable=0 | cv2=2.177 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 462.3s
+[   40/600] T=60.816 | curr=222.200 (best=2.145) | unstable=0 | cv2=2.200 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 463.8s
+[   40/600] T=60.816 | curr=190.232 (best=2.145) | unstable=0 | cv2=2.232 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 464.2s
+[   40/600] T=60.816 | curr=162.184 (best=2.145) | unstable=0 | cv2=2.184 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 464.2s
+[   40/600] T=60.816 | curr=174.214 (best=2.145) | unstable=0 | cv2=2.214 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 464.5s
+[   40/600] T=60.816 | curr=150.178 (best=2.145) | unstable=0 | cv2=2.178 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 467.4s
+[   40/600] T=60.816 | curr=166.216 (best=2.145) | unstable=0 | cv2=2.216 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 469.0s
+[   40/600] T=60.816 | curr=154.168 (best=2.145) | unstable=0 | cv2=2.168 | m=209 | acc= 87.5% | no_improv= 40 | last_improv=    0 | elapsed= 469.5s
+[   40/600] T=60.816 | curr=170.177 (best=2.145) | unstable=0 | cv2=2.177 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 471.1s
+[   40/600] T=60.816 | curr=194.185 (best=2.145) | unstable=0 | cv2=2.185 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 471.7s
+[   40/600] T=60.816 | curr=178.196 (best=2.145) | unstable=0 | cv2=2.196 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 471.7s
+[   40/600] T=60.816 | curr=162.182 (best=2.145) | unstable=0 | cv2=2.182 | m=209 | acc= 87.5% | no_improv= 40 | last_improv=    0 | elapsed= 472.8s
+[   40/600] T=60.816 | curr=178.224 (best=2.145) | unstable=0 | cv2=2.224 | m=209 | acc= 87.5% | no_improv= 40 | last_improv=    0 | elapsed= 473.7s
+[   40/600] T=60.816 | curr=154.199 (best=2.145) | unstable=0 | cv2=2.199 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 473.7s
+[   40/600] T=60.816 | curr=202.204 (best=2.145) | unstable=0 | cv2=2.204 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 473.7s
+[   40/600] T=60.816 | curr=186.191 (best=2.145) | unstable=0 | cv2=2.191 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 474.7s
+[   40/600] T=60.816 | curr=194.176 (best=2.145) | unstable=0 | cv2=2.176 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 475.0s
+[   40/600] T=60.816 | curr=142.227 (best=2.145) | unstable=0 | cv2=2.227 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 475.3s
+[   40/600] T=60.816 | curr=166.215 (best=2.145) | unstable=0 | cv2=2.215 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 475.3s
+[   40/600] T=60.816 | curr=142.227 (best=2.145) | unstable=0 | cv2=2.227 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 476.5s
+[   40/600] T=60.816 | curr=186.231 (best=2.145) | unstable=0 | cv2=2.231 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 477.2s
+[   40/600] T=60.816 | curr=210.213 (best=2.145) | unstable=0 | cv2=2.213 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 477.4s
+[   40/600] T=60.816 | curr=146.203 (best=2.145) | unstable=0 | cv2=2.203 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 477.9s
+[   40/600] T=60.816 | curr=158.169 (best=2.145) | unstable=0 | cv2=2.169 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 478.5s
+[   40/600] T=60.816 | curr=194.177 (best=2.145) | unstable=0 | cv2=2.177 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 480.8s
+[   40/600] T=60.816 | curr=162.205 (best=2.145) | unstable=0 | cv2=2.205 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 481.2s
+[   40/600] T=60.816 | curr=182.167 (best=2.145) | unstable=0 | cv2=2.167 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 481.2s
+[   40/600] T=60.816 | curr=206.207 (best=2.145) | unstable=0 | cv2=2.207 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 481.5s
+[   40/600] T=60.816 | curr=198.205 (best=2.145) | unstable=0 | cv2=2.205 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 484.2s
+[   40/600] T=60.816 | curr=146.190 (best=2.145) | unstable=0 | cv2=2.190 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 484.2s
+[   40/600] T=60.816 | curr=166.163 (best=2.145) | unstable=0 | cv2=2.163 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 484.2s
+[   40/600] T=60.816 | curr=190.215 (best=2.145) | unstable=0 | cv2=2.215 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 484.3s
+[   40/600] T=60.816 | curr=162.216 (best=2.145) | unstable=0 | cv2=2.216 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 484.9s
+[   40/600] T=60.816 | curr=182.184 (best=2.145) | unstable=0 | cv2=2.184 | m=209 | acc= 90.0% | no_improv= 40 | last_improv=    0 | elapsed= 485.3s
+[   40/600] T=60.816 | curr=206.196 (best=2.145) | unstable=0 | cv2=2.196 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 486.3s
+[   40/600] T=60.816 | curr=162.250 (best=2.145) | unstable=0 | cv2=2.250 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 486.2s
+[   40/600] T=60.816 | curr=170.174 (best=2.145) | unstable=0 | cv2=2.174 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 487.2s
+[   40/600] T=60.816 | curr=170.193 (best=2.145) | unstable=0 | cv2=2.193 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 487.4s
+[   40/600] T=60.816 | curr=198.215 (best=2.145) | unstable=0 | cv2=2.215 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 487.6s
+[   40/600] T=60.816 | curr=162.168 (best=2.145) | unstable=0 | cv2=2.168 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 487.9s
+[   40/600] T=60.816 | curr=206.199 (best=2.145) | unstable=0 | cv2=2.199 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 488.3s
+[   40/600] T=60.816 | curr=174.204 (best=2.145) | unstable=0 | cv2=2.204 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 488.7s
+[   40/600] T=60.816 | curr=178.210 (best=2.145) | unstable=0 | cv2=2.210 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 489.0s
+[   40/600] T=60.816 | curr=166.217 (best=2.145) | unstable=0 | cv2=2.217 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 489.1s
+[   40/600] T=60.816 | curr=194.204 (best=2.145) | unstable=0 | cv2=2.204 | m=209 | acc=100.0% | no_improv= 40 | last_improv=    0 | elapsed= 489.7s
+[   40/600] T=60.816 | curr=166.241 (best=2.145) | unstable=0 | cv2=2.241 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 489.9s
+[   40/600] T=60.816 | curr=186.171 (best=2.145) | unstable=0 | cv2=2.171 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 490.4s
+[   40/600] T=60.816 | curr=190.212 (best=2.145) | unstable=0 | cv2=2.212 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 490.3s
+[   40/600] T=60.816 | curr=190.198 (best=2.145) | unstable=0 | cv2=2.198 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 490.9s
+[   40/600] T=60.816 | curr=178.214 (best=2.145) | unstable=0 | cv2=2.214 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 491.7s
+[   40/600] T=60.816 | curr=182.222 (best=2.145) | unstable=0 | cv2=2.222 | m=209 | acc= 92.5% | no_improv= 40 | last_improv=    0 | elapsed= 491.9s
+[   40/600] T=60.816 | curr=178.210 (best=2.145) | unstable=0 | cv2=2.210 | m=209 | acc=100.0% | no_improv= 40 | last_improv=    0 | elapsed= 491.8s
+[   40/600] T=60.816 | curr=158.188 (best=2.145) | unstable=0 | cv2=2.188 | m=209 | acc=100.0% | no_improv= 40 | last_improv=    0 | elapsed= 493.1s
+[   40/600] T=60.816 | curr=178.159 (best=2.145) | unstable=0 | cv2=2.159 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 494.3s
+[   40/600] T=60.816 | curr=194.211 (best=2.145) | unstable=0 | cv2=2.211 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 495.0s
+[   40/600] T=60.816 | curr=182.217 (best=2.145) | unstable=0 | cv2=2.217 | m=209 | acc=100.0% | no_improv= 40 | last_improv=    0 | elapsed= 496.9s
+[   40/600] T=60.816 | curr=206.221 (best=2.145) | unstable=0 | cv2=2.221 | m=209 | acc=100.0% | no_improv= 40 | last_improv=    0 | elapsed= 498.6s
+[   40/600] T=60.816 | curr=186.226 (best=2.145) | unstable=0 | cv2=2.226 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 500.2s
+[   40/600] T=60.816 | curr=154.165 (best=2.145) | unstable=0 | cv2=2.165 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 500.1s
+[   40/600] T=60.816 | curr=174.197 (best=2.145) | unstable=0 | cv2=2.197 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 502.9s
+[   40/600] T=60.816 | curr=170.211 (best=2.145) | unstable=0 | cv2=2.211 | m=209 | acc=100.0% | no_improv= 40 | last_improv=    0 | elapsed= 503.3s
+[   40/600] T=60.816 | curr=178.204 (best=2.145) | unstable=0 | cv2=2.204 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 504.9s
+[   40/600] T=60.816 | curr=170.168 (best=2.145) | unstable=0 | cv2=2.168 | m=209 | acc= 95.0% | no_improv= 40 | last_improv=    0 | elapsed= 506.6s
+[   40/600] T=60.816 | curr=170.194 (best=2.145) | unstable=0 | cv2=2.194 | m=209 | acc= 97.5% | no_improv= 40 | last_improv=    0 | elapsed= 512.3s
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 561.02s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_073/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 564.62s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_010/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 568.76s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_074/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 571.97s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_003/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 577.22s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_063/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 579.84s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_033/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 583.48s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_052/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 584.70s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_031/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 86.3% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 586.16s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_036/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 586.95s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_035/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 589.00s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_054/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 86.3% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 589.40s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_060/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 590.81s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_058/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 592.64s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_023/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 593.64s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_042/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 593.92s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_048/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 594.71s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_064/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 595.18s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_053/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 86.3% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 597.10s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_059/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 88.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 597.17s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_066/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 597.59s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_030/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 601.24s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_072/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 84.3% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 601.58s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_062/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 602.50s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_040/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 602.61s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_055/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 605.67s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_069/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 605.65s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_004/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 605.92s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_032/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 606.11s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_011/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 608.52s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_065/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 609.47s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_043/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 609.70s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_007/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 610.50s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_009/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 611.13s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_013/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 611.76s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_041/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 612.88s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_022/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 612.98s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_028/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 613.29s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_018/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 100.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 614.71s
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_037/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 615.35s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_027/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 615.92s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_008/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 616.41s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_046/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 616.97s
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_014/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 617.21s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_049/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 617.33s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_006/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 617.58s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_071/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 617.61s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_026/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 100.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 618.50s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_034/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 619.91s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_051/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 620.17s
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 620.20s
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 100.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 620.18s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_039/sa_trace_stage1_L209.csv
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_075/sa_trace_stage1_L209.csv
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_056/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 90.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 621.10s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_067/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 621.58s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_021/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 622.24s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_000/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 622.66s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_001/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 622.79s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_020/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 625.51s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_015/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 626.23s
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_045/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 626.26s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_005/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 626.48s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_024/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 626.85s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_068/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 92.2% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 627.39s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_044/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 628.23s
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 628.27s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_016/sa_trace_stage1_L209.csv
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_017/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 628.60s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_029/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 629.42s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_047/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 629.62s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_012/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 100.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 633.65s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_002/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 633.90s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_057/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 98.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 635.10s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_019/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 94.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 636.53s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_025/sa_trace_stage1_L209.csv
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 100.0% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 638.26s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_050/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 641.21s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_038/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 642.12s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_070/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== SA完了（52イテレーション） ===
+初期目的: 2.144728
+最終目的: 2.144728
+受理率: 96.1% | 最終温度: 53.906 | last_improv_iter=0
+[time] Total elapsed: 644.38s
+[trace] saved: /sqfs2/cmc/1/work/G15281/v60550/OpenBCMP/MPI_DisasterModel_v7_20251221_shizuoka_05_01/opt/rank_061/sa_trace_stage1_L209.csv
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+=== シミュレーテッドアニーリングによる最適化 ===
+最大イテレーション: 600
+初期温度: 90.0
+冷却率: 0.99
+総窓口数上限: 104 (enforce_exact=True)
+初期解: start_solution を使用
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 0 PID 1033743 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 1 PID 1033744 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 2 PID 1033745 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 3 PID 1033746 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 4 PID 1033747 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 5 PID 1033748 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 6 PID 1033749 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 7 PID 1033750 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 8 PID 1033751 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 9 PID 1033752 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 10 PID 1033753 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 11 PID 1033754 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 12 PID 1033755 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 13 PID 1033756 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 14 PID 1033757 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 15 PID 1033758 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 16 PID 1033759 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 17 PID 1033760 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 18 PID 1033761 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 19 PID 1033762 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 20 PID 1033763 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 21 PID 1033764 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 22 PID 1033765 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 23 PID 1033766 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 24 PID 1033767 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 25 PID 1033768 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 26 PID 1033769 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 27 PID 1033770 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 28 PID 1033771 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 29 PID 1033772 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 30 PID 1033773 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 31 PID 1033774 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 32 PID 1033775 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 33 PID 1033776 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 34 PID 1033777 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 35 PID 1033778 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 36 PID 1033779 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 37 PID 1033780 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 38 PID 1033781 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 39 PID 1033782 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 40 PID 1033783 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 41 PID 1033784 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 42 PID 1033785 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 43 PID 1033786 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 44 PID 1033787 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 45 PID 1033788 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 46 PID 1033789 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 47 PID 1033790 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 48 PID 1033791 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 49 PID 1033792 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 50 PID 1033793 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 51 PID 1033794 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 52 PID 1033795 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 53 PID 1033796 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 54 PID 1033797 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 55 PID 1033798 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 56 PID 1033799 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 57 PID 1033800 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 58 PID 1033801 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 59 PID 1033802 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 60 PID 1033803 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 61 PID 1033804 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 62 PID 1033805 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 63 PID 1033806 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 64 PID 1033807 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 65 PID 1033808 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 66 PID 1033809 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 67 PID 1033810 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 68 PID 1033811 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 69 PID 1033812 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 70 PID 1033813 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 71 PID 1033814 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 72 PID 1033815 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 73 PID 1033816 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 74 PID 1033817 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 75 PID 1033818 RUNNING AT cpu0314
+=   KILLED BY SIGNAL: 15 (Terminated)
+===================================================================================
